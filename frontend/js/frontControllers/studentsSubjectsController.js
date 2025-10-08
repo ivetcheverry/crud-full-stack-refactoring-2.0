@@ -9,8 +9,8 @@
 */
 
 import { studentsAPI } from '../apiConsumers/studentsAPI.js';
-import { subjectsAPI } from '../apiConsumers/subjectsAPI.js.js';
-import { studentsSubjectsAPI } from '../apiConsumers/studentsSubjectsAPI.js.js';
+import { subjectsAPI } from '../apiConsumers/subjectsAPI.js';
+import { studentsSubjectsAPI } from '../apiConsumers/studentsSubjectsAPI.js';
 
 document.addEventListener('DOMContentLoaded', () => 
 {

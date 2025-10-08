@@ -8,7 +8,7 @@
 *    Iteration   : 1.0 ( prototype )
 */
 
-import { subjectsAPI } from '../apiConsumers/subjectsAPI.js.js';
+import { subjectsAPI } from '../apiConsumers/subjectsAPI.js';
 
 document.addEventListener('DOMContentLoaded', () => 
 {
